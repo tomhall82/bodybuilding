@@ -176,6 +176,13 @@ main {
     position: relative;
 }
 
+.picture {
+    color: #E3E4DB;
+    background-color: #3E78B2;
+    text-align: center;
+    padding: 10px;
+}
+
 .picture img {
     width: 100%;
     max-width: 500px;
