@@ -87,7 +87,7 @@ nav {
 main {
     /* Make main element push footer down */
     flex: 1 0 auto;
-    margin-top: 42px;
+    margin-top: 47px;
     background-color: #ffffff;
 }
 
@@ -188,6 +188,10 @@ main {
 #eras>ul>li>a {
     text-decoration: none;
     color: #3E78B2;
+}
+
+.era-title-space {
+    padding: 20px 0;
 }
 
 .picture {
