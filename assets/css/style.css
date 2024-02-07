@@ -176,6 +176,18 @@ main {
     position: relative;
 }
 
+#eras {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 2px 0;
+    line-height: 1.6;
+}
+
+#eras>ul>li>a {
+    text-decoration: none;
+    color: #3E78B2;
+}
+
 .picture {
     color: #E3E4DB;
     background-color: #3E78B2;
