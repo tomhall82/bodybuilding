@@ -176,7 +176,7 @@ main {
     position: relative;
 }
 
-#early-years img {
+.picture img {
     width: 100%;
     max-width: 500px;
     display: flex;
