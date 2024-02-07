@@ -1,0 +1,40 @@
+/* Goolgle fonts */
+
+/* Asterisk wildcard selector to override default browser styles */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+header {
+    text-transform: uppercase;
+}
+
+header>a {
+    text-decoration: none;
+}
+
+/* Nav */
+
+/* Main */
+main {
+    /* Make main element push footer down */
+    flex: 1 0 auto;
+}
+
+/* Footer */
+#social-media {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 10px 0;
+}
