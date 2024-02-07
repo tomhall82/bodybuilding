@@ -176,6 +176,13 @@ main {
     position: relative;
 }
 
+#early-years img {
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    
+}
+
 /* Footer */
 #social-media {
     display: flex;
