@@ -42,9 +42,11 @@ h2 {
 /* Nav */
 nav {
     position: absolute;
+    background-color: #3E78B2;
     width: 100%;
     top: 100%;
     display: none;
+    padding-left: 5%;
 }
 
 #nav-menu {
@@ -53,6 +55,7 @@ nav {
 
 #nav-menu>li>a {
     text-decoration: none;
+    color: inherit;
 }
 
 /* Nav toggle */
