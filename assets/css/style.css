@@ -23,7 +23,7 @@ p {
 }
 
 
-h2 {
+h2, h3 {
     color: #3E78B2;
     text-transform: uppercase;
     text-align: center;
@@ -178,9 +178,9 @@ main {
 
 #early-years img {
     width: 100%;
-    display: inline-flex;
-    flex-wrap: wrap;
-    
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
 }
 
 /* Footer */
