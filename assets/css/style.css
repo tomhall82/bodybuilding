@@ -16,6 +16,7 @@ body {
     color: #24272B;
     font-family: barlow condensed, sans-serif;
     background-color: #3E78B2;
+    font-size: 18px;
 }
 
 p {
@@ -60,6 +61,7 @@ nav {
 
 #nav-menu {
     list-style: none;
+    font-size: 120%;
 }
 
 #nav-menu>li>a {
