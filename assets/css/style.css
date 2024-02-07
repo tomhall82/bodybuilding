@@ -38,6 +38,7 @@ nav {
     position: absolute;
     width: 100%;
     top: 100%;
+    display: none;
 }
 
 #nav-menu {
@@ -46,6 +47,19 @@ nav {
 
 #nav-menu>li>a {
     text-decoration: none;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main */
