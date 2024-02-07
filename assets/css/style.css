@@ -216,18 +216,8 @@ main {
     padding: 10px 0;
 }
 
-.facebook {
-    color: blue;
-}
-
-.twitter-x {
-    color: black;
-}
-
-.instagram {
-    color: black;
-}
-
-.youtube {
-    color: red;
+#social-media i {
+    font-size: 140%;
+    padding: 5%;
+    color: #24272B;
 }
