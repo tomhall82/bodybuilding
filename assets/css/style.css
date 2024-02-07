@@ -20,6 +20,12 @@ body {
 header {
     font-family: bebas neue, sans-serif;
     text-transform: uppercase;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
 
 }
 
@@ -28,11 +34,25 @@ header>a {
 }
 
 /* Nav */
+nav {
+    position: absolute;
+    width: 100%;
+    top: 100%;
+}
+
+#nav-menu {
+    list-style: none;
+}
+
+#nav-menu>li>a {
+    text-decoration: none;
+}
 
 /* Main */
 main {
     /* Make main element push footer down */
     flex: 1 0 auto;
+    margin-top: 42px;
 }
 
 /* Footer */
