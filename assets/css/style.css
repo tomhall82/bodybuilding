@@ -27,6 +27,7 @@ h2 {
     color: #3E78B2;
     text-transform: uppercase;
     text-align: center;
+    background-color: rgba(227, 228, 219, .9);
 }
 
 /* Header */
@@ -110,7 +111,8 @@ main {
     padding: 10px;
     color: #ffffff;
     background-color: rgba(36, 39, 43, .3);
-    border-radius: 50px;;
+    border-radius: 50px;
+    ;
 }
 
 #competition {
@@ -133,6 +135,30 @@ main {
     color: #ffffff;
     height: 100%;
     width: 100%;
+}
+
+#meal-prep {
+    background: url("../images/meal-prep.webp") no-repeat center center/cover;
+    width: 33vw;
+    height: 33vw;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#supplements {
+    background: url("../images/bodybuilding-supps.jpg") no-repeat center center/cover;
+    width: 33vw;
+    height: 33vw;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#prep-supp {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
 }
 
 /* Footer */
