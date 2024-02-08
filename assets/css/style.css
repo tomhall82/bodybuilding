@@ -208,6 +208,13 @@ main {
     justify-content: center;
 }
 
+/* Buddy */
+
+#find-a-buddy {
+    background: url("../images/branch-trio-training.jpg") no-repeat;
+    background-size: cover;
+}
+
 /* Footer */
 #social-media {
     display: flex;
