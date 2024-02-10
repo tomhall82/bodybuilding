@@ -56,7 +56,7 @@
                     </div>
                     <div>
                         <label for="contact-number">Contact Number:</label>
-                        <input type="text" id="contact-number" name="contact-number" placeholder="*optional">
+                        <input type="tel" id="contact-number" name="contact-number" pattern="[0-9]{5}-[0-9]{6}" placeholder="*optional">
                     </div>
 
                 </fieldset>
@@ -97,7 +97,8 @@
                     </div>
                     <br>
                     <p>How hard do you train?</p>
-
+                    <label for="intensity">Intensity</label>
+                    <input type="range" id="intensity" name="intensity" min="0" max="10">
                 </fieldset>
                 <input type="submit">
             </form>
