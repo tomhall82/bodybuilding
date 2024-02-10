@@ -218,6 +218,10 @@ main {
     color: #E3E4DB;
 }
 
+#buddy-form {
+    padding: 10px;
+}
+
 /* Footer */
 #social-media {
     display: flex;
