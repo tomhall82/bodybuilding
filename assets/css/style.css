@@ -220,6 +220,12 @@ main {
 
 #buddy-form {
     padding: 10px;
+    max-width: 500px;
+}
+
+input[type=text], input[type=email], input[type=date], input[type=tel] {
+    width: 50%;
+    height: 25px;
 }
 
 /* Footer */

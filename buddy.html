@@ -34,31 +34,33 @@
     <main>
         <section>
             <h2>Find a Buddy!</h2>
-            <p>Intro to find a buddy section</p>
+            <p>Whether you are looking to compete, push your personal best or even get some motivation to get yourself into the
+                gym, a training buddy can be invaluble.</p>
+            <p>Find your perfect training partner using the below form and push your gains to the next level!</p>
             <form action="https://formdump.codeinstitute.net" method="post" id="buddy-form">
                 <fieldset>
                     <legend>Your Details</legend>
                     <div>
                         <label for="first-name">First Name:</label>
-                        <input type="text" id="first-name" name="first-name" required>
+                        <input type="text" id="first-name" name="first-name" class="details-field" required>
                     </div>
                     <div>
                         <label for="last-name">Last Name:</label>
-                        <input type="text" id="last-name" name="last-name" required>
+                        <input type="text" id="last-name" name="last-name" class="details-field" required>
                     </div>
                     <div>
-                        <label for="dob">Date of Birth:</label>
+                        <label for="dob" class="details-field">Date of Birth:</label>
                         <input type="date" required>
                     </div>
                     <div>
-                        <label for="email">Email:</label>
+                        <label for="email" class="details-field">Email:</label>
                         <input type="email" name="email" id="email" name="email" required>
                     </div>
                     <div>
-                        <label for="contact-number">Contact Number:</label>
-                        <input type="tel" id="contact-number" name="contact-number" pattern="[0-9]{5}-[0-9]{6}" placeholder="*optional">
+                        <label for="contact-number" class="details-field">Contact Number:</label>
+                        <input type="tel" id="contact-number" name="contact-number" pattern="[0-9]{5}-[0-9]{6}"
+                            placeholder="*optional">
                     </div>
-
                 </fieldset>
 
                 <fieldset>
@@ -117,6 +119,7 @@
                         <input type="checkbox" id="yeah-buddy" name="yeah-buddy">
                         <label for="yeah-buddy">Yeah buddy! Lightweight baby!</label>
                     </div>
+                    <br>
                 </fieldset>
                 <input type="submit">
             </form>
