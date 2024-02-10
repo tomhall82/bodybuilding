@@ -211,8 +211,11 @@ main {
 /* Buddy */
 
 #find-a-buddy {
-    background: url("../images/branch-trio-training.jpg") no-repeat;
-    background-size: cover;
+    background: url("../images/branch-trio-training.jpg") no-repeat top center/cover;
+    height: 400px;
+    width: 100%;
+    background-position: 90%;
+    color: #E3E4DB;
 }
 
 /* Footer */
