@@ -38,23 +38,64 @@
             <form action="https://formdump.codeinstitute.net" method="post">
                 <fieldset>
                     <legend>Your Details</legend>
-                    <label for="first-name">First Name</label>
-                    <input type="text" id="first-name" name="first-name" required>
-                    <br>
-                    <label for="last-name">Last Name</label>
-                    <input type="text" id="last-name" name="last-name" required>
-                    <br>
-                    <label for="dob">Date of Birth</label>
-                    <input type="date"required>
-                    <br>
-                    <label for="email">Email</label>
-                    <input type="email" name="email" id="email" name="email" required>
-                    <br>
-                    <label for="contact-number">Contact Number</label>
-                    <input type="text" id="contact-number" name="contact-number" placeholder="*optional">
-                    <br>
-                    <input type="submit">
+                    <div>
+                        <label for="first-name">First Name</label>
+                        <input type="text" id="first-name" name="first-name" required>
+                    </div>
+                    <div>
+                        <label for="last-name">Last Name</label>
+                        <input type="text" id="last-name" name="last-name" required>
+                    </div>
+                    <div>
+                        <label for="dob">Date of Birth</label>
+                        <input type="date" required>
+                    </div>
+                    <div>
+                        <label for="email">Email</label>
+                        <input type="email" name="email" id="email" name="email" required>
+                    </div>
+                    <div>
+                        <label for="contact-number">Contact Number</label>
+                        <input type="text" id="contact-number" name="contact-number" placeholder="*optional">
+                    </div>
+
                 </fieldset>
+
+                <fieldset>
+                    <legend>Goals</legend>
+                    <p>What are you looking to achieve:</p>
+                    <div>
+                        <input type="checkbox" id="general-fitness" name="general-fitness">
+                        <label for="general-fitness">General Fitness</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="building-mass" name="building-mass">
+                        <label for="building-mass">Building Mass</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="strength" name="strength">
+                        <label for="strength">Strength</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="shredding" name="shredding">
+                        <label for="shredding">Shredding</label>
+                    </div>
+                    <br>
+                    <p>How many times per week do you train?</p>
+
+                    <input type="radio" id="none" name="none" checked required>
+                    <label for="none">0 - Yet!</label>
+
+                    <input type="radio" id="1-2" name="1-2" required>
+                    <label for="1-2">1 - 2</label>
+
+                    <input type="radio" id="3-4" name="3-4" required>
+                    <label for="3-4">3 - 4</label>
+
+                    <input type="radio" id="none" name="none" active required>
+                    <label for="none">0 - Yet!</label>
+                </fieldset>
+                <input type="submit">
             </form>
         </section>
         <br>
