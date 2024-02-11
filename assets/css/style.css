@@ -104,7 +104,7 @@ main {
 #hero {
     width: 100%;
     height: 450px;
-    background: url("../images/Classic_Olympia_Posedown.jpg") no-repeat center -110px;
+    background: url("../images/Classic_Olympia_Posedown.jpg") center -110px;
     position: relative;
 }
 
@@ -113,17 +113,6 @@ main {
     width: 100%;
     bottom: 0;
     text-align: center;
-}
-
-.joe-weider-quote {
-    font-family: satisfy, sans-serif;
-    font-size: 80%;
-    text-align: center;
-    padding: 10px;
-    color: #ffffff;
-    background-color: rgba(36, 39, 43, .3);
-    border-radius: 50px;
-    ;
 }
 
 #competition {
@@ -177,7 +166,7 @@ main {
 .picture-1  img {
     width: 100%;
     border-radius: 5%;
-    max-width: 900px;
+    max-width: 600px;
     position: relative;
     display: flex;
     justify-content: center;
