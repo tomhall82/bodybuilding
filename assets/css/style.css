@@ -193,20 +193,32 @@ main {
 
 .era-title-space {
     padding: 20px 0;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 .picture {
-    color: #E3E4DB;
-    background-color: #3E78B2;
     text-align: center;
     padding: 10px;
+    font-weight: bold;
 }
 
 .picture img {
     width: 100%;
     max-width: 900px;
+    position: relative;
     display: flex;
     justify-content: center;
+    margin: 10px auto;
+    border: #000000 solid 1px;
+    outline: #3E78B2 solid 15px;
+}
+
+em {
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
 }
 
 /* Buddy */
