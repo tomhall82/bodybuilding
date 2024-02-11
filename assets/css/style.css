@@ -206,7 +206,7 @@ main {
 
 .picture img {
     width: 100%;
-    max-width: 900px;
+    max-width: 860px;
     position: relative;
     display: flex;
     justify-content: center;
