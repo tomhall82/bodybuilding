@@ -259,6 +259,12 @@ input[type=tel] {
     height: 25px;
 }
 
+fieldset {
+    padding: 20px;
+    border: inset 2px #3E78B2;
+    border-radius: 20px;
+}
+
 #lets-go {
     margin: 10px auto;
     padding: 10px 30px;
