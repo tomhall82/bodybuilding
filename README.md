@@ -30,7 +30,7 @@ This website is to offer an insite to what bodybuilding is and to help beginners
 
 ![bodybuilding-colour-pallett](assets\documentation\Bodybuilding-palette.png)
 
-The website uses a seletion of blues and greys created using the [coolors](https://coolors.co/) website.
+The website uses a selection of blues and greys created using the [coolors](https://coolors.co/) website.
 
 ### Typography
 
