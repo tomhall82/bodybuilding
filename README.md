@@ -133,3 +133,31 @@ Open the terminal in your code editor and change the current working directory t
 Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ## Testing
+
+
+
+
+
+## Credits
+
+### Code Used
+- Love running project for nav dropdown
+- Love running project for social media links in footer
+
+### Content
+- Home page. 
+  - Content for the home page taken from [bodybuilding.com](https://www.bodybuilding.com/fun/what_is_bodybuilding.htm) & [stridestrong.com](https://stridestrong.com/what-is-a-bodybuilder/)
+-The History of Bodybuilding.
+  - Content for the history of bodybuilding page taken from [bodybuilding.com](https://www.bodybuilding.com/fun/drobson61.htm)
+
+### Media
+
+#### Home:
+- [classic-olympia-posedown.jpeg](https://twitter.com/MrOlympiaLLC/status/1175014053900480512)
+- [arnold-schwarzenegger-quote.webp](https://www.goalcast.com/top-15-arnold-schwarzenegger-quotes/)
+- [sandow_trophy.jpeg](https://www.digitalmuscle.com/wp-content/uploads/2021/01/259FA44E-9E17-43A2-B09C-6AE3F3F07B61.jpeg)
+- [Meal-prep.webp](https://bkhealthymeals.co.uk/products/bodybuilding-diet)
+- [Bodybulding-supps.jpeg](https://www.pinterest.co.uk/pin/589619776212469942/)
+- [Ronnie-jay-phil.jpg](https://media.licdn.com/dms/image/D4E22AQFW4b6Qe3fuqg/feedshare-shrink_800/0/1691489357991?e=2147483647&v=beta&t=QBehGin79D9CGDk5zvXYb2LSa-2dQ78dpk6HNf2efN0)
+
+#### The History of Bodybuilding:
