@@ -2,7 +2,7 @@
 
 This website is to offer an insite to what bodybuilding is and to help beginners and seasoned trainers find their next training buddy.
 
-![bodybuilding-responsive-screenshots-from-am-i-responsive](assets\documentation\bodybuilding-responsive-screenshots.jpg)
+![bodybuilding-responsive-screenshots-from-am-i-responsive](assets/documentation/bodybuilding-responsive-screenshots.jpg)
 
 ## User Experience (UX)
 
@@ -28,7 +28,7 @@ This website is to offer an insite to what bodybuilding is and to help beginners
 
 ### Colour Scheme
 
-![bodybuilding-colour-pallett](assets\documentation\Bodybuilding-palette.png)
+![bodybuilding-colour-pallett](assets/documentation/Bodybuilding-palette.png)
 
 The website uses a selection of blues and greys created using the [coolors](https://coolors.co/) website.
 
