@@ -81,3 +81,24 @@ Using semantic HTML.
 Using descriptive alt attributes on images on the site.
 Providing information for screen readers where there are icons used and no text.
 Ensuring that there is a sufficient colour contrast throughout the site.
+
+## Technologies Used
+
+#### Languages Used
+HTML and CSS were used to create this website.
+
+#### Frameworks, Libraries & Programs Used
+
+Git - For version control.
+
+[Github](https://github.com/) - To save and store the files for the website.
+
+[Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+[Font Awesome](https://fontawesome.com/) - For the iconography on the website.
+
+Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+[Favicon.io](https://favicon.io/) To create favicon.
+
+[Am I Responsive?](https://ui.dev/amiresponsive) To show the website image on a range of devices.
