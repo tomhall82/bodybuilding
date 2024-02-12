@@ -72,3 +72,12 @@ The website is comprised of three pages, all of which are accessible from the na
   - Diet & Nutrition page. A page to further explore the expansive subject of diet, nutrition and supplementation.
   - Training Tips & Programmes page. A page with sample training exercises, training splits and programmes.
   - FAQ page. A page to answe commonly asked questions for new and experienced bodybuilders alike.
+
+  ## Accessibility
+
+During coding I have endeavoured to ensure that the website is as accessible friendly as possible. I have achieved this by:
+
+Using semantic HTML.
+Using descriptive alt attributes on images on the site.
+Providing information for screen readers where there are icons used and no text.
+Ensuring that there is a sufficient colour contrast throughout the site.
