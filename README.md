@@ -50,6 +50,7 @@ The website is comprised of three pages, all of which are accessible from the na
 
 - All pages have:
   - A responsive header including a drop-down navigation menu.
+  - A link for the page currently on in the bodybuilding title to enable the user to quickly get back to the top of the page.
   - A footer which contains social media icon links to facebook, X, instagram & youtube.
 
 - Home
