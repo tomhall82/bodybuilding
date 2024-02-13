@@ -338,11 +338,23 @@ fieldset {
         float: right;
         width: 66%;
     }
+
+    #history-intro {
+        width: 100%;
+        height: 300px;
+        position: relative;
+    }
 }
 
 @media screen and (min-width: 1044px) {
    /* remove float from arnie quote */
     .picture-arnie img {
         float: none;
+    }
+
+    #history-intro {
+        width: 100%;
+        height: 400px;
+        position: relative;
     }
 }
