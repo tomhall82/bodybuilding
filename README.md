@@ -146,7 +146,8 @@ Type 'git clone' into the terminal and then paste the link you copied in step 3.
 
 ### Content
 - Home page. 
-  - Content for the home page taken from [bodybuilding.com](https://www.bodybuilding.com/fun/what_is_bodybuilding.htm) & [stridestrong.com](https://stridestrong.com/what-is-a-bodybuilder/)
+  - Content for the home page taken from [bodybuilding.com](https://www.bodybuilding.com/fun/what_is_bodybuilding.htm) & [stridestrong.com](https://stridestrong.com/what-is-a-bodybuilder/).
+  - Content for competition section taken from [setforset.com](https://www.setforset.com/blogs/news/bodybuilding-competitions-divisions-for-men-women-explained)
 -The History of Bodybuilding.
   - Content for the history of bodybuilding page taken from [bodybuilding.com](https://www.bodybuilding.com/fun/drobson61.htm)
 
