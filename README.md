@@ -4,6 +4,8 @@ This website is to offer an insite to what bodybuilding is and to help beginners
 
 ![bodybuilding-responsive-screenshots-from-am-i-responsive](assets/docs/bodybuilding-responsive-screenshots.jpg)
 
+[Visit Bodybuilding](https://tomhall82.github.io/bodybuilding/)
+
 ## User Experience (UX)
 
 ### Client Goals
