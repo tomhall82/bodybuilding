@@ -179,3 +179,7 @@ Type 'git clone' into the terminal and then paste the link you copied in step 3.
 #### Find a Buddy!
 
 - [Branch-trio-training.jpg](https://themusclephd.com/the-training-partner-rule-book/)
+
+## Acknowledgments
+
+- [Graeme Taylor](https://github.com/G-Taylor), my Code Institute mentor
