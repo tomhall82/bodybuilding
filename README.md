@@ -161,3 +161,21 @@ Type 'git clone' into the terminal and then paste the link you copied in step 3.
 - [Ronnie-jay-phil.jpg](https://media.licdn.com/dms/image/D4E22AQFW4b6Qe3fuqg/feedshare-shrink_800/0/1691489357991?e=2147483647&v=beta&t=QBehGin79D9CGDk5zvXYb2LSa-2dQ78dpk6HNf2efN0)
 
 #### The History of Bodybuilding:
+
+- [Bodybuilding-over-past-100-years.jpeg](https://fitnessvolt.com/100-years-changes-bodybuilding/)
+- [Sandow-strongman.jpg](https://i.nextmedia.com.au/insidesport/2015-09-GettyImages-3333892.jpg)
+- [William-l-murray.jpeg](https://physicalculturestudy.com/wp-content/uploads/2016/05/60fd9025c8a0be3c9139e9cba8e04b9a.jpg)
+- [Muscle-beach-1930s.jpeg](https://www.pinterest.co.uk/pin/138204282289947502/)
+- [John-grimek.webp](https://www.muscleandstrength.com/workouts/john-grimek-workout)
+- [Reg-and-arnie.png](https://gymtalk.com/reg-park-beginner-routine/)
+- [Golden-era-bodybuilders.webp](https://sheruclassicworld.com/unveiling-the-legends-exploring-the-golden-era-bodybuilding/)
+- [Arnold-schwarzenegger.jpeg](https://lwlies.com/articles/pumping-iron-arnold-schwarzenegger-bodybuilding-documentary/)
+- [80s-action-heros.jpeg](https://www.quora.com/Why-arent-action-Hollywood-heroes-no-longer-strong-and-muscular-like-in-the-80s)
+- [Lee-haney-medal.webp](https://www.muscleandfitness.com/flexonline/training/quality-muscle/)
+- [Dorian-yates.jpeg](https://www.ebay.co.uk/itm/221608754357)
+- [Ronnie-coleman-jay-cutler.webp](https://www.essentiallysports.com/us-sports-news-bodybuilding-news-he-would-do-600lbs-jay-cutler-recalls-crazy-difference-in-his-workout-with-ronnie-coleman/)
+- [2023-mr-olympia-results.jpeg](https://fitnessvolt.com/2023-mr-olympia-results/)
+
+#### Find a Buddy!
+
+- [Branch-trio-training.jpg](https://themusclephd.com/the-training-partner-rule-book/)
