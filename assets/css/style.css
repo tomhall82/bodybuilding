@@ -20,7 +20,7 @@ body {
 }
 
 p {
-    padding: 5px;
+    padding: 5px 10px;
     max-width: 900px;
     margin: 0 auto;
 }
@@ -39,6 +39,7 @@ h4 {
     max-width: 900px;
     margin: 0 auto;
     text-align: center;
+    text-transform: uppercase;
 }
 
 h5 {
@@ -46,6 +47,7 @@ h5 {
     max-width: 900px;
     margin: 0 auto;
     text-decoration: underline;
+    text-transform: uppercase;
 }
 
 em {
@@ -193,6 +195,16 @@ main {
     color: inherit;
 }
 
+.picture-arnie  img {
+    width: 100%;
+    border-radius: 5%;
+    max-width: 600px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
+
 .picture-1  img {
     width: 100%;
     border-radius: 5%;
@@ -319,7 +331,7 @@ fieldset {
         width: 60%;
     }
 
-    .picture-1 img {
+    .picture-arnie img {
         float: right;
         width: 66%;
     }
@@ -327,7 +339,7 @@ fieldset {
 
 @media screen and (min-width: 1044px) {
    /* remove float from arnie quote */
-    .picture-1 img {
+    .picture-arnie img {
         float: none;
     }
 }
