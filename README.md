@@ -144,8 +144,9 @@ Type 'git clone' into the terminal and then paste the link you copied in step 3.
 ## Credits
 
 ### Code Used
-- Love running project for nav dropdown
-- Love running project for social media links in footer
+- Love running project for nav dropdown.
+- Love running project for pushing the footer down to the bottom of the page.
+- Love running project for social media links in footer.
 
 ### Content
 - Home page. 
