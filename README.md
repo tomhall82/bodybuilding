@@ -207,7 +207,7 @@ Used google developer tools, Lighthouse testing was also conducted on each of th
 
 1. Home link header not changing colour. Found due to it being a link, changed colour directly initially but the realized I could set “color: inherit;” like suggested in the modules.
 1. Unable to get Sandow image to show – had missed “/” between the “..” and “images” so had “background: url("..images/Sandow_Trophy.jpeg") no-repeat center center/cover;” where it should have been “background: url("../images/Sandow_Trophy.jpeg") no-repeat center center/cover;”
-1. H2 background wasn’t being opaic due to being doubled up on h2 element and introduction class. Amended class structure(s) which resolved the issue.
+1. H2 background wasn’t being opaque due to being doubled up on h2 element and introduction class. Amended class structure(s) which resolved the issue.
 1. History page was showing wrong when in landscape mode. The image would move in such a way to not longer look right. Fixed by changing center to top: 'background: url("../images/bodybuilding-over-past-100-years.jpg") no-repeat top center/cover;'
 
 ### Known Bugs
