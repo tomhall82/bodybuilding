@@ -120,9 +120,10 @@ The website is comprised of three pages, all of which are accessible from the na
 - ###### Future Implementations
   - Diet & Nutrition page. A page to further explore the expansive subject of diet, nutrition and supplementation.
   - Training Tips & Programmes page. A page with sample training exercises, training splits and programmes.
+  - Competition / Events page. A page showing upcoming competitions, events, appearances, exhibitions etc.
   - FAQ page. A page to answe commonly asked questions for new and experienced bodybuilders alike.
 
-  ## Accessibility
+## Accessibility
 
 During coding I have endeavoured to ensure that the website is as accessible friendly as possible. I have achieved this by:
 
