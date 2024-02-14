@@ -221,6 +221,7 @@ Used google developer tools, Lighthouse testing was also conducted on each of th
 - Love running project for nav dropdown.
 - Love running project for pushing the footer down to the bottom of the page.
 - Love running project for social media links in footer.
+- Embedding code for video on history page taken from YouTube.
 
 ### Content
 - Home page. 
