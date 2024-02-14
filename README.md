@@ -6,6 +6,52 @@ This website is to offer an insite to what bodybuilding is and to help beginners
 
 [Visit Bodybuilding](https://tomhall82.github.io/bodybuilding/)
 
+## Contents
+
+- [User Experience](#user-experience-ux)
+  - [Client Goals](#client-goals)
+  - [First Time Visitor Goals](#first-time-visitor-goals)
+  - [Returning Visitor Goals](#returning-visitor-goals)
+
+- [Design](#design)
+  - [Colour Scheme](#colour-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
+
+- [Features](#features)
+  - [All pages](#all-pages-have)
+  - [Home page](#home-page)
+  - [The History of Bodybuilding page](#the-history-of-bodybuilding-page)
+  - [Find a Buddy! page](#find-a-buddy-page)
+  - [Future Implementations](#future-implementations)
+
+- [Accessibility](#accessibility)
+  
+- [Technologies Used](#technologies-used)
+  - [Languages Used](#languages-used)
+  - [Libraries & Programs Used](#libraries--programs-used)
+
+- [Deployment & Local Development](#deployment--local-development)
+  - [Deployment](#deployment)
+  - [How to Fork](#how-to-fork)
+  - [How to Clone](#how-to-clone)
+
+- [Testing](#testing)
+  - [W3C Validator](#w3c-validator)
+  - [Lighthouse](#lighthouse)
+  - [Solved Bugs](#solved-bugs)
+  - [Known Bugs](#known-bugs)
+
+- [Credits]
+  - [Code Used](#code-used)
+  - [Content](#content)
+  - [Media](#media)
+    - [Home](#home)
+    - [History of Bodybuilding](#the-history-of-bodybuilding)
+    - [Find a Buddy!](#find-a-buddy)
+
+- [Acknowledgments](#acknowledgments)
+
 ## User Experience (UX)
 
 ### Client Goals
@@ -48,18 +94,18 @@ The images throughout the website have been taken from various sources. This is 
 
 The website is comprised of three pages, all of which are accessible from the navigation menu (home, the history of bodybuilding & find a buddy page). Links to the history of bodybuilding & find a buddy page are also imbedded in the relevant text on the home screen.
 
-- All pages have:
+- ###### All pages have:
   - A responsive header including a drop-down navigation menu.
   - A link for the page currently on in the bodybuilding title to enable the user to quickly get back to the top of the page.
   - A footer which contains social media icon links to facebook, X, instagram & youtube.
 
-- Home
+- ###### Home page
   - About section. This section gives an overview on what bodybuilding is, along with an insperational quote from Arnold Schwarzenegger.
   - Competition section. This section discusses the competiton aspect of bodybuilding along with examples of judging criteria. There is also a link to The History of Bodybuilding included in the text.
   - Diet section. This section introduces the user to diet and supplementation in bodybuilding.
   - Social section. This section looks at the social aspect of bodybuilding and also talks about the Find a Buddy! feature. There is a link to the Find a Buddy! page included in this text.
 
-- The History of Bodybuilding
+- ###### The History of Bodybuilding page
   - This page starts with links to jump to the 5 main sections listed below.
   - The Early Years section. This section looks at the beginnings of, and early years of bodybuilding.
   - The First Bodybuilding Competition section. This section looks at the first bodybuilding competition and its winner.
@@ -67,11 +113,11 @@ The website is comprised of three pages, all of which are accessible from the na
   - The golden era section. This section looks at bodybuilding during the 70's & 80's which is often referred to as "The golden era".
   - 1980's to present section. This section brings us up to date to bodybuilding today.
 
-- Find a buddy!
+- ###### Find a Buddy! page
   - This section contains the form for the Find a Buddy! sign-up.
   - The user can enter both their personal details along with training preferences to find their training buddy!.
 
-- Future implementations
+- ###### Future Implementations
   - Diet & Nutrition page. A page to further explore the expansive subject of diet, nutrition and supplementation.
   - Training Tips & Programmes page. A page with sample training exercises, training splits and programmes.
   - FAQ page. A page to answe commonly asked questions for new and experienced bodybuilders alike.
@@ -90,7 +136,7 @@ Ensuring that there is a sufficient colour contrast throughout the site.
 #### Languages Used
 HTML and CSS were used to create this website.
 
-#### Frameworks, Libraries & Programs Used
+#### Libraries & Programs Used
 
 Git - For version control.
 
@@ -114,7 +160,7 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 Log in (or sign up) to Github.
 Find the repository for this project, bodybuilding.
 Click on the Settings link.
-Click on the Pages link in the left hand side navigation bar.
+Click on the Pages link in the left-hand side navigation bar.
 In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
 Click Save. Your live Github Pages site is now deployed at the URL shown.
 Local Development
