@@ -253,6 +253,7 @@ Used google developer tools, Lighthouse testing was also conducted on each of th
 - [Lee-haney-medal.webp](https://www.muscleandfitness.com/flexonline/training/quality-muscle/)
 - [Dorian-yates.jpeg](https://www.ebay.co.uk/itm/221608754357)
 - [Ronnie-coleman-jay-cutler.webp](https://www.essentiallysports.com/us-sports-news-bodybuilding-news-he-would-do-600lbs-jay-cutler-recalls-crazy-difference-in-his-workout-with-ronnie-coleman/)
+- [Mr Olympia top 3 Video](https://youtu.be/iSpT3gujbQQ?si=LHLmN0DuduUg1Tpa)
 - [2023-mr-olympia-results.jpeg](https://fitnessvolt.com/2023-mr-olympia-results/)
 
 #### Find a Buddy!
