@@ -72,7 +72,7 @@ header {
   background-color: #3e78b2;
 }
 
-/* Nav */
+/* Nav - Taken from Love Running project */
 nav {
   position: absolute;
   background-color: #3e78b2;
@@ -95,7 +95,7 @@ nav {
   color: inherit;
 }
 
-/* Nav toggle */
+/* Nav toggle - taken from Love Running project */
 #nav-toggle:checked ~ nav {
   display: block;
 }
@@ -129,7 +129,7 @@ nav {
 
 /* Main */
 main {
-  /* Make main element push footer down */
+  /* Make main element push footer down - Taken from Love Running project */
   flex: 1 0 auto;
   margin-top: 50px;
   background-color: #ffffff;
