@@ -137,9 +137,27 @@ Type 'git clone' into the terminal and then paste the link you copied in step 3.
 
 ## Testing
 
+### W3C Validator
 
+The W3C validator was used to validate all HTML pages on the site with no errors found. For the CSS, the W3C (Jigsaw) validator was used with no errors found.
 
+- [index.html](assets/docs/testing/w3c/w3c-index.html.png)
+- [history.html](assets/docs/testing/w3c/w3c-history.html.png)
+- [buddy.html](assets/docs/testing/w3c/w3c-buddy.html.png)
+- [style.css](assets/docs/testing/w3c/w3c-style.css.png)
 
+### Lighthouse
+
+Used google developer tools, Lighthouse testing was also conducted on each of the pages. The results are as below:
+
+##### index.html
+![index.html lighthouse results](assets/docs/testing/lighthouse/index.html.png)
+![history.html lighthouse results](assets/docs/testing/lighthouse/history.html.png)
+![buddy.html lighthouse results](assets/docs/testing/lighthouse/buddy.html.png)
+
+### Solved Bugs
+
+### Known Bugs
 
 ## Credits
 
