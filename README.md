@@ -231,6 +231,7 @@ Used google developer tools, Lighthouse testing was also conducted on each of th
 1. H2 background wasn’t being opaque due to being doubled up on h2 element and introduction class. Amended class structure(s) which resolved the issue.
 1. History page was showing wrong when in landscape mode. The image would move in such a way to not longer look right. Fixed by changing center to top: 'background: url("../images/bodybuilding-over-past-100-years.jpg") no-repeat top center/cover;'
 1. H3 titles were obscuring the first line of the following paragraph when using the link to jump to them. After trying moving the heading around, changing sections to divs, wrapping the whole section in a div, nothing was working. Issue was solved by added an additional '<br>' to the top of the first paragraph in each section.
+1. Had an issue where all radio buttons were selecting. This is due to the fact I had missed out the value attribute and miss-labeled the name attribute.
 
 ### Known Bugs
 
