@@ -96,6 +96,7 @@ nav {
 #nav-menu > li > a {
   text-decoration: none;
   color: inherit;
+  text-transform: uppercase;
 }
 
 /* Nav toggle - taken from Love Running project */
@@ -323,13 +324,14 @@ fieldset {
   max-width: 450px;
 }
 
-button > a {
+#button-position > a {
   font-family: bebas neue, sans-serif;
-  font-size: 150%;
+  font-size: 120%;
   text-decoration: none;
   color: #e3e4db;
   background-color: #3e78b2;
   text-transform: uppercase;
+  line-height: 50px;
 }
 
 /* Footer */
