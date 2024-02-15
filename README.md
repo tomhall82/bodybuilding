@@ -286,6 +286,14 @@ Used google developer tools, Lighthouse testing was also conducted on each of th
 
 - [Branch-trio-training.jpg](https://themusclephd.com/the-training-partner-rule-book/)
 
+#### 404.html
+
+- [empty-gym.jpeg](https://pngtree.com/freebackground/an-empty-gym-with-some-equipment-and-dark-walls_2773763.html)
+
+#### thank-you.html
+
+- [dillon-you-son-of-a.webp](https://godsofgrip.com/blogs/all-things-grip/the-power-of-a-strong-handshake)
+
 ## Acknowledgments
 
 - [Graeme Taylor](https://github.com/G-Taylor), my Code Institute mentor
