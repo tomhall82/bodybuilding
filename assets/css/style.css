@@ -25,6 +25,11 @@ p {
   margin: 0 auto;
 }
 
+h1 {
+  font-family: bebas neue, sans-serif;
+  text-transform: uppercase;
+}
+
 h2,
 h3 {
   color: #3e78b2;
@@ -61,8 +66,6 @@ em {
 
 /* Header */
 header {
-  font-family: bebas neue, sans-serif;
-  text-transform: uppercase;
   position: fixed;
   z-index: 99;
   width: 100%;
@@ -290,6 +293,44 @@ fieldset {
   font-weight: bold;
   color: #ffffff;
   background-color: #3e78b2;
+}
+
+/* 404 Page not found */
+
+#page-not-found > h1 {
+  padding: 20px 0;
+  text-align: center;
+  font-size: 200%;
+}
+
+#page-not-found > p {
+  text-align: center;
+  max-width: 500px;
+}
+
+#button-position {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.button {
+  text-align: center;
+  margin: 5px;
+  padding: 5px 20px;
+  color: #e3e4db;
+  background-color: #3e78b2;
+  border-radius: 15px;
+  width: 66%;
+  max-width: 450px;
+}
+
+button > a {
+  font-family: bebas neue, sans-serif;
+  font-size: 150%;
+  text-decoration: none;
+  color: #e3e4db;
+  background-color: #3e78b2;
+  text-transform: uppercase;
 }
 
 /* Footer */
