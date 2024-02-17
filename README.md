@@ -26,6 +26,8 @@ This website is to offer an insite to what bodybuilding is and to help beginners
   - [Home page](#home-page)
   - [The History of Bodybuilding page](#the-history-of-bodybuilding-page)
   - [Find a Buddy! page](#find-a-buddy-page)
+  - [404 Page not found](#404-page-not-found)
+  - [Thank you page](#thank-you-page)
   - [Future Implementations](#future-implementations)
 
 - [Accessibility](#accessibility)
@@ -104,29 +106,62 @@ The website is comprised of three pages, all of which are accessible from the na
 - ###### All pages have:
 
   - A responsive header including a drop-down navigation menu.
+
+  ![drop-down-nav-image](assets/docs/drop-down-nav.jpg)
+
   - A link for the page currently on in the bodybuilding title to enable the user to quickly get back to the top of the page.
+
   - A footer which contains social media icon links to facebook, X, instagram & youtube.
+
+  ![footer-image](assets/docs/footer.jpg)
 
 - ###### Home page
 
   - About section. This section gives an overview on what bodybuilding is, along with an insperational quote from Arnold Schwarzenegger.
+
+  ![home-page-image](assets/docs/home-page.jpg)
+
   - Competition section. This section discusses the competiton aspect of bodybuilding along with examples of judging criteria. There is also a link to The History of Bodybuilding included in the text.
+
   - Diet section. This section introduces the user to diet and supplementation in bodybuilding.
+
   - Social section. This section looks at the social aspect of bodybuilding and also talks about the Find a Buddy! feature. There is a link to the Find a Buddy! page included in this text.
 
 - ###### The History of Bodybuilding page
 
   - This page starts with links to jump to the 5 main sections listed below.
+
+  ![history-links-image](assets/docs/history-and-section-links.jpg)
+
   - The Early Years section. This section looks at the beginnings of, and early years of bodybuilding.
+
   - The First Bodybuilding Competition section. This section looks at the first bodybuilding competition and its winner.
+
   - The beginning of the bodybuilding movement section. This section looks at bodybuildings initial rise to popularity from the 30's to the late 60's.
+
   - The golden era section. This section looks at bodybuilding during the 70's & 80's which is often referred to as "The golden era".
+
   - 1980's to present section. This section brings us up to date to bodybuilding today.
 
 - ###### Find a Buddy! page
 
   - This section contains the form for the Find a Buddy! sign-up.
+
+  ![form-image](assets/docs/form.jpg)
+
   - The user can enter both their personal details along with training preferences to find their training buddy!.
+
+- ###### 404 Page not found
+
+  - Website specific 404 page not found complete with links back to each page.
+
+  ![page-not-found-image](assets/docs/page-not-found.jpg)
+
+- ###### Thank you page
+
+  - Thank you page upon completion of the form complete with 10 second re-direct or link, should the user prefer.
+
+  ![thank-you-image](assets/docs/thank-you.jpg)
 
 - ###### Future Implementations
   - Diet & Nutrition page. A page to further explore the expansive subject of diet, nutrition and supplementation.
@@ -220,15 +255,33 @@ Used google developer tools, Lighthouse testing was also conducted on each of th
 
 ##### index.html
 
-![index.html lighthouse results](assets/docs/testing/lighthouse/index.html.png)
+Desktop
+
+![index.html lighthouse results](assets/docs/testing/lighthouse/index-desktop.webp)
+
+Mobile
+
+![index.html lighthouse results](assets/docs/testing/lighthouse/index-mobile.webp)
 
 ##### history.html
 
-![history.html lighthouse results](assets/docs/testing/lighthouse/history.html.png)
+Desktop
+
+![history.html lighthouse results](assets/docs/testing/lighthouse/history-desktop.webp)
+
+Mobile
+
+![history.html lighthouse results](assets/docs/testing/lighthouse/history-mobile.webp)
 
 ##### buddy.html
 
-![buddy.html lighthouse results](assets/docs/testing/lighthouse/buddy.html.png)
+Desktop
+
+![buddy.html lighthouse results](assets/docs/testing/lighthouse/buddy-desktop.webp)
+
+Mobile
+
+![buddy.html lighthouse results](assets/docs/testing/lighthouse/buddy-mobile.webp)
 
 ### Solved Bugs
 
