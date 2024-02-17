@@ -228,6 +228,7 @@ main {
   font-weight: bold;
 }
 
+/* Class for history pictures */
 .picture img {
   width: 100%;
   max-width: 860px;
