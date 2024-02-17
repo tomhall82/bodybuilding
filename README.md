@@ -240,6 +240,10 @@ The live link can be foudn here - [https://tomhall82.github.io/bodybuilding/](ht
 
 ## Testing
 
+Since deployment the site has been continually tested on ios and android devices alongside chrome, edge and firefox browsers.
+
+On both mobile and tablet, the site has been tested in both portrait and landscape orientations. The desktop tests have been conducted in various size windows and dynamically to ensure responsiveness.
+
 ### W3C Validator
 
 The W3C validator was used to validate all HTML pages on the site with no errors found. For the CSS, the W3C (Jigsaw) validator was used with no errors found.
