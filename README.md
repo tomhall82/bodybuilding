@@ -227,7 +227,7 @@ Used google developer tools, Lighthouse testing was also conducted on each of th
 ### Solved Bugs
 
 1. Home link header not changing colour. Found due to it being a link, changed colour directly initially but the realized I could set “color: inherit;” like suggested in the modules.
-1. Unable to get Sandow image to show – had missed “/” between the “..” and “images” so had “background: url("..images/Sandow_Trophy.jpeg") no-repeat center center/cover;” where it should have been “background: url("../images/Sandow_Trophy.jpeg") no-repeat center center/cover;”
+1. Unable to get Sandow image to show – had missed “/” between the “..” and “images” so had “background: url("..images/Sandow_Trophy.webp") no-repeat center center/cover;” where it should have been “background: url("../images/Sandow_Trophy.webp") no-repeat center center/cover;”
 1. H2 background wasn’t being opaque due to being doubled up on h2 element and introduction class. Amended class structure(s) which resolved the issue.
 1. History page was showing wrong when in landscape mode. The image would move in such a way to not longer look right. Fixed by changing center to top: 'background: url("../images/bodybuilding-over-past-100-years.jpg") no-repeat top center/cover;'
 1. H3 titles were obscuring the first line of the following paragraph when using the link to jump to them. After trying moving the heading around, changing sections to divs, wrapping the whole section in a div, nothing was working. Issue was solved by added an additional '<br>' to the top of the first paragraph in each section.
@@ -258,37 +258,37 @@ Used google developer tools, Lighthouse testing was also conducted on each of th
 
 #### Home:
 
-- [classic-olympia-posedown.jpeg](https://twitter.com/MrOlympiaLLC/status/1175014053900480512)
+- [classic-olympia-posedown.webp](https://twitter.com/MrOlympiaLLC/status/1175014053900480512)
 - [arnold-schwarzenegger-quote.webp](https://www.goalcast.com/top-15-arnold-schwarzenegger-quotes/)
-- [sandow_trophy.jpeg](https://www.digitalmuscle.com/wp-content/uploads/2021/01/259FA44E-9E17-43A2-B09C-6AE3F3F07B61.jpeg)
-- [Meal-prep.webp](https://bkhealthymeals.co.uk/products/bodybuilding-diet)
-- [Bodybulding-supps.jpeg](https://www.pinterest.co.uk/pin/589619776212469942/)
-- [Ronnie-jay-phil.jpg](https://media.licdn.com/dms/image/D4E22AQFW4b6Qe3fuqg/feedshare-shrink_800/0/1691489357991?e=2147483647&v=beta&t=QBehGin79D9CGDk5zvXYb2LSa-2dQ78dpk6HNf2efN0)
+- [sandow_trophy.webp](https://www.digitalmuscle.com/wp-content/uploads/2021/01/259FA44E-9E17-43A2-B09C-6AE3F3F07B61.webp)
+- [meal-prep.webp](https://bkhealthymeals.co.uk/products/bodybuilding-diet)
+- [bodybulding-supps.webp](https://www.pinterest.co.uk/pin/589619776212469942/)
+- [ronnie-jay-phil.webp](https://media.licdn.com/dms/image/D4E22AQFW4b6Qe3fuqg/feedshare-shrink_800/0/1691489357991?e=2147483647&v=beta&t=QBehGin79D9CGDk5zvXYb2LSa-2dQ78dpk6HNf2efN0)
 
 #### The History of Bodybuilding:
 
-- [Bodybuilding-over-past-100-years.jpeg](https://fitnessvolt.com/100-years-changes-bodybuilding/)
-- [Sandow-strongman.jpg](https://i.nextmedia.com.au/insidesport/2015-09-GettyImages-3333892.jpg)
-- [William-l-murray.jpeg](https://physicalculturestudy.com/wp-content/uploads/2016/05/60fd9025c8a0be3c9139e9cba8e04b9a.jpg)
-- [Muscle-beach-1930s.jpeg](https://www.pinterest.co.uk/pin/138204282289947502/)
-- [John-grimek.webp](https://www.muscleandstrength.com/workouts/john-grimek-workout)
-- [Reg-and-arnie.png](https://gymtalk.com/reg-park-beginner-routine/)
-- [Golden-era-bodybuilders.webp](https://sheruclassicworld.com/unveiling-the-legends-exploring-the-golden-era-bodybuilding/)
-- [Arnold-schwarzenegger.jpeg](https://lwlies.com/articles/pumping-iron-arnold-schwarzenegger-bodybuilding-documentary/)
-- [80s-action-heros.jpeg](https://www.quora.com/Why-arent-action-Hollywood-heroes-no-longer-strong-and-muscular-like-in-the-80s)
-- [Lee-haney-medal.webp](https://www.muscleandfitness.com/flexonline/training/quality-muscle/)
-- [Dorian-yates.jpeg](https://www.ebay.co.uk/itm/221608754357)
-- [Ronnie-coleman-jay-cutler.webp](https://www.essentiallysports.com/us-sports-news-bodybuilding-news-he-would-do-600lbs-jay-cutler-recalls-crazy-difference-in-his-workout-with-ronnie-coleman/)
-- [Mr Olympia top 3 Video](https://youtu.be/iSpT3gujbQQ?si=LHLmN0DuduUg1Tpa)
-- [2023-mr-olympia-results.jpeg](https://fitnessvolt.com/2023-mr-olympia-results/)
+- [bodybuilding-over-past-100-years.webp](https://fitnessvolt.com/100-years-changes-bodybuilding/)
+- [sandow-strongman.webp](https://i.nextmedia.com.au/insidesport/2015-09-GettyImages-3333892.jpg)
+- [william-l-murray.webp](https://physicalculturestudy.com/wp-content/uploads/2016/05/60fd9025c8a0be3c9139e9cba8e04b9a.jpg)
+- [muscle-beach-1930s.webp](https://www.pinterest.co.uk/pin/138204282289947502/)
+- [john-grimek.webp](https://www.muscleandstrength.com/workouts/john-grimek-workout)
+- [reg-and-arnie.png](https://gymtalk.com/reg-park-beginner-routine/)
+- [golden-era-bodybuilders.webp](https://sheruclassicworld.com/unveiling-the-legends-exploring-the-golden-era-bodybuilding/)
+- [arnold-schwarzenegger.webp](https://lwlies.com/articles/pumping-iron-arnold-schwarzenegger-bodybuilding-documentary/)
+- [80s-action-heros.webp](https://www.quora.com/Why-arent-action-Hollywood-heroes-no-longer-strong-and-muscular-like-in-the-80s)
+- [lee-haney-medal.webp](https://www.muscleandfitness.com/flexonline/training/quality-muscle/)
+- [dorian-yates.webp](https://www.ebay.co.uk/itm/221608754357)
+- [ronnie-coleman-jay-cutler.webp](https://www.essentiallysports.com/us-sports-news-bodybuilding-news-he-would-do-600lbs-jay-cutler-recalls-crazy-difference-in-his-workout-with-ronnie-coleman/)
+- [mr olympia top 3 Video](https://youtu.be/iSpT3gujbQQ?si=LHLmN0DuduUg1Tpa)
+- [2023-mr-olympia-results.webp](https://fitnessvolt.com/2023-mr-olympia-results/)
 
 #### Find a Buddy!
 
-- [Branch-trio-training.jpg](https://themusclephd.com/the-training-partner-rule-book/)
+- [branch-trio-training.webp](https://themusclephd.com/the-training-partner-rule-book/)
 
 #### 404.html
 
-- [empty-gym.jpeg](https://pngtree.com/freebackground/an-empty-gym-with-some-equipment-and-dark-walls_2773763.html)
+- [empty-gym.webp](https://pngtree.com/freebackground/an-empty-gym-with-some-equipment-and-dark-walls_2773763.html)
 
 #### thank-you.html
 
