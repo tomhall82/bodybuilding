@@ -165,6 +165,10 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 [Am I Responsive?](https://ui.dev/amiresponsive) To show the website image on a range of devices.
 
+[Pixelied](https://pixelied.com/convert/jpg-converter) To covert images files into webp format.
+
+[Tiny PNG](https://tinypng.com/) To compress images.
+
 ## Deployment & Local Development
 
 ### Deployment
@@ -196,6 +200,8 @@ Go to the repository for this project, tomhall82/bodybuilding.
 Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+The live link can be foudn here - [https://tomhall82.github.io/bodybuilding/](https://tomhall82.github.io/bodybuilding/)
 
 ## Testing
 
