@@ -142,14 +142,14 @@ main {
 #hero {
   width: 100%;
   height: 450px;
-  background: url("../images/Classic_Olympia_Posedown.jpg") no-repeat center -110px;
+  background: url("../images/classic_olympia_posedown.webp") no-repeat center -110px;
   position: relative;
 }
 
 #competition {
   width: 100%;
   height: 100%;
-  background: url("../images/Sandow_Trophy.jpeg") no-repeat center center/cover;
+  background: url("../images/sandow_trophy.webp") no-repeat center center/cover;
   position: relative;
 }
 
@@ -199,7 +199,7 @@ main {
 /* History */
 
 #history-intro {
-  background: url("../images/bodybuilding-over-past-100-years.jpg") no-repeat
+  background: url("../images/bodybuilding-over-past-100-years.webp") no-repeat
     top center/cover;
   width: 100%;
   height: 200px;
