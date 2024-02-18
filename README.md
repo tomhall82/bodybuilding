@@ -295,10 +295,12 @@ Mobile
 1. History page was showing wrong when in landscape mode. The image would move in such a way to not longer look right. Fixed by changing center to top: 'background: url("../images/bodybuilding-over-past-100-years.jpg") no-repeat top center/cover;'
 1. H3 titles were obscuring the first line of the following paragraph when using the link to jump to them. After trying moving the heading around, changing sections to divs, wrapping the whole section in a div, nothing was working. Issue was solved by added an additional '<br>' to the top of the first paragraph in each section.
 1. Had an issue where all radio buttons were selecting. This is due to the fact I had missed out the value attribute and miss-labeled the name attribute.
+1. While testing on ios devices, the deployed site has a white line approx. 2px high below the header on each page. This does not show on any other device nor when using developer tools on the deployed site. This has been solved by changing the background colour back to the same blue as the header with the main as white. This has elliminated the line.
+1. After I had changed the image file types to webp and compressed them, some images were not showing on the deployed site even though they were present on the previews and the file paths were correct. This was solved by removing the images and adding again.
 
 ### Known Bugs
 
-1. While testing on ios devices, the deployed site has a white line approx. 2px high below the header on each page. This does not show on any other device nor when using developer tools on the deployed site.
+1. None currently.
 
 ## Credits
 
