@@ -244,6 +244,8 @@ Since deployment the site has been continually tested on ios and android devices
 
 On both mobile and tablet, the site has been tested in both portrait and landscape orientations. The desktop tests have been conducted in various size windows and dynamically to ensure responsiveness.
 
+In addition to this, the webpage has been submitted for peer review through slack.
+
 ### W3C Validator
 
 The W3C validator was used to validate all HTML pages on the site with no errors found. For the CSS, the W3C (Jigsaw) validator was used with no errors found.
@@ -362,3 +364,4 @@ Mobile
 ## Acknowledgments
 
 - [Graeme Taylor](https://github.com/G-Taylor), my Code Institute mentor
+- [John Dickson](https://github.com/johnamdickson), for taking the time to conduct a peer review and providing constructive feedback.
