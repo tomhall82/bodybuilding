@@ -363,5 +363,5 @@ Mobile
 
 ## Acknowledgments
 
-- [Graeme Taylor](https://github.com/G-Taylor), my Code Institute mentor
+- [Graeme Taylor](https://github.com/G-Taylor), my Code Institute mentor.
 - [John Dickson](https://github.com/johnamdickson), for taking the time to conduct a peer review and providing constructive feedback.
