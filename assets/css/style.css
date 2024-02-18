@@ -374,6 +374,10 @@ fieldset {
 
   iframe {
     height: 400px;
+    max-width: 900px;
+    position: relative;
+    display: flex;
+    margin: 0 auto;
   }
 
   #find-a-buddy {
