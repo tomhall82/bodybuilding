@@ -204,6 +204,8 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 [Tiny PNG](https://tinypng.com/) To compress images.
 
+[Image Resizer.com](https://imageresizer.com/) To re-size images.
+
 ## Deployment & Local Development
 
 ### Deployment
