@@ -187,7 +187,7 @@ main {
 }
 
 .picture-1 img {
-  width: 100%;
+  width: 280px;
   border-radius: 5%;
   max-width: 600px;
   position: relative;
@@ -230,7 +230,7 @@ main {
 
 /* Class for history pictures */
 .picture img {
-  width: 100%;
+  width: 260px;
   max-width: 860px;
   position: relative;
   display: flex;
@@ -360,6 +360,20 @@ fieldset {
     width: 100%;
     height: 200px;
   }
+
+  .picture img {
+    width: 360px;
+  }
+
+  .picture-1 img {
+    width: 360px;
+  }
+
+  iframe {
+    width: 380px;
+    display: flex;
+    margin: 0 auto;
+  }
 }
 
 /* Media rules for tablet and up */
@@ -376,6 +390,7 @@ fieldset {
   #arnold-quote-right-float img {
     float: right;
     width: 66%;
+    margin: 0 15px;
   }
 
   #history-intro {
@@ -384,9 +399,17 @@ fieldset {
     position: relative;
   }
 
+  .picture img {
+    width: 740px;
+  }
+
+  .picture-1 img {
+    width: 760px;
+  }
+
   iframe {
     height: 400px;
-    max-width: 900px;
+    width: 760px;
     position: relative;
     display: flex;
     margin: 0 auto;
@@ -413,8 +436,17 @@ fieldset {
     position: relative;
   }
 
+  .picture img {
+    width: 900px;
+  }
+
+  .picture-1 img {
+    width: 900px;
+  }
+
   iframe {
     height: 600px;
+    width: 900px;
   }
 
   #find-a-buddy {
