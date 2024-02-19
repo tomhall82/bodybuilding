@@ -252,7 +252,7 @@ main {
 #find-a-buddy {
   background: url("../images/branch-trio-training.webp") no-repeat top
     center/cover;
-  height: 400px;
+  height: 300px;
   width: 100%;
   background-position: 90%;
   color: #e3e4db;
@@ -381,6 +381,10 @@ fieldset {
     width: 380px;
     display: flex;
     margin: 0 auto;
+  }
+
+  #find-a-buddy {
+    height: 400px;
   }
 }
 
