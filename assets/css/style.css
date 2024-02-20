@@ -75,6 +75,10 @@ header {
   background-color: #3e78b2;
 }
 
+header > label > em {
+  display: none;
+}
+
 /* Nav - Taken from Love Running project */
 nav {
   position: absolute;
