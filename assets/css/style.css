@@ -206,9 +206,10 @@ main {
 #history-intro {
   background: url("../images/bodybuilding-over-past-100-years.webp") no-repeat
     top center/cover;
-  width: 100%;
+  width: 280px;
   height: 146px;
   position: relative;
+  margin: 0 auto;
 }
 
 #eras {
@@ -396,7 +397,7 @@ fieldset {
   }
 
   #history-intro {
-    width: 100%;
+    width: 375px;
     height: 200px;
   }
 
@@ -458,9 +459,8 @@ fieldset {
   }
 
   #history-intro {
-    width: 100%;
+    width: 768px;
     height: 300px;
-    position: relative;
   }
 
   .picture img {
@@ -521,9 +521,8 @@ fieldset {
   }
 
   #history-intro {
-    width: 100%;
+    width: 1000px;
     height: 400px;
-    position: relative;
   }
 
   .picture img {
