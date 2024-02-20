@@ -179,7 +179,7 @@ main {
 
 .diet-images {
   background: no-repeat center;
-  width: 33%;
+  width: 94px;
   border-radius: 50%;
   max-width: 300px;
   max-height: 300px;
@@ -358,7 +358,7 @@ fieldset {
   color: #24272b;
 }
 
-/* Media rules for larger mobiles 400px+ */
+/* Media rules for larger mobiles 375px+ */
 
 @media screen and (min-width: 375px) {
   nav {
@@ -367,6 +367,10 @@ fieldset {
 
   #nav-menu {
     font-size: 120%;
+  }
+
+  .diet-images {
+    width: 125px;
   }
 
   #history-intro {
@@ -423,6 +427,10 @@ fieldset {
     width: 760px;
   }
 
+  .diet-images {
+    width: 256px;
+  }
+
   iframe {
     height: 400px;
     width: 760px;
@@ -458,6 +466,10 @@ fieldset {
 
   .picture-1 img {
     width: 900px;
+  }
+
+  .diet-images {
+    width: 300px;
   }
 
   iframe {
