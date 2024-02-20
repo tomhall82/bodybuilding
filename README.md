@@ -288,6 +288,8 @@ Mobile
 
 ![history.html lighthouse results](assets/docs/testing/lighthouse/history-mobile.webp)
 
+Due to the amount of images and the size it took me some time to get the performace metric into the green for this one. It was finally possible after changing the images to webp, resizing and compressing all images and then setting exact height and with with media queries for different screen sizes.
+
 ##### buddy.html
 
 Desktop
