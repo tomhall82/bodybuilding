@@ -1,6 +1,6 @@
 # Bodybuilding
 
-This website is to offer an insite to what bodybuilding is and to help beginners and seasoned trainers find their next training buddy.
+This website is to offer an insight to what bodybuilding is and to help beginners and seasoned trainers find their next training buddy.
 
 ![bodybuilding-responsive-screenshots-from-am-i-responsive](assets/docs/bodybuilding-responsive-screenshots.jpg)
 
@@ -112,17 +112,17 @@ The website is comprised of three pages, all of which are accessible from the na
 
   - A link for the page currently on in the bodybuilding title to enable the user to quickly get back to the top of the page.
 
-  - A footer which contains social media icon links to facebook, X, instagram & youtube.
+  - A footer which contains social media icon links to Facebook, X, Instagram & YouTube.
 
   ![footer-image](assets/docs/footer.jpg)
 
 - ###### Home page
 
-  - About section. This section gives an overview on what bodybuilding is, along with an insperational quote from Arnold Schwarzenegger.
+  - About section. This section gives an overview on what bodybuilding is, along with an inspirational quote from Arnold Schwarzenegger.
 
   ![home-page-image](assets/docs/home-page.jpg)
 
-  - Competition section. This section discusses the competiton aspect of bodybuilding along with examples of judging criteria. There is also a link to The History of Bodybuilding included in the text.
+  - Competition section. This section discusses the competition aspect of bodybuilding along with examples of judging criteria. There is also a link to The History of Bodybuilding included in the text.
 
   - Diet section. This section introduces the user to diet and supplementation in bodybuilding.
 
@@ -150,7 +150,7 @@ The website is comprised of three pages, all of which are accessible from the na
 
   ![form-image](assets/docs/form.jpg)
 
-  - The user can enter both their personal details along with training preferences to find their training buddy!.
+  - The user can enter both their personal details along with training preferences to find their training buddy!
 
 - ###### 404 Page not found
 
@@ -168,7 +168,7 @@ The website is comprised of three pages, all of which are accessible from the na
   - Diet & Nutrition page. A page to further explore the expansive subject of diet, nutrition and supplementation.
   - Training Tips & Programmes page. A page with sample training exercises, training splits and programmes.
   - Competition / Events page. A page showing upcoming competitions, events, appearances, exhibitions etc.
-  - FAQ page. A page to answe commonly asked questions for new and experienced bodybuilders alike.
+  - FAQ page. A page to answer commonly asked questions for new and experienced bodybuilders alike.
 
 ## Accessibility
 
@@ -245,11 +245,11 @@ Click on the code button, select whether you would like to clone with HTTPS, SSH
 Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
-The live link can be foudn here - [https://tomhall82.github.io/bodybuilding/](https://tomhall82.github.io/bodybuilding/)
+The live link can be found here - [https://tomhall82.github.io/bodybuilding/](https://tomhall82.github.io/bodybuilding/)
 
 ## Testing
 
-Since deployment the site has been continually tested on ios and android devices alongside chrome, edge and firefox browsers.
+Since deployment the site has been continually tested on iOS and android devices alongside chrome, edge and Firefox browsers.
 
 On both mobile and tablet, the site has been tested in both portrait and landscape orientations. The desktop tests have been conducted in various size windows and dynamically to ensure responsiveness.
 
@@ -300,9 +300,7 @@ Mobile
 
 ### [Wave](https://wave.webaim.org/)
 
-To test accessibility, Wave was used. All came back in a positive light with the exception of one error found across all pages (below). The error is for an empty form label which has been caused by the mechanics used in the dropdown navigation menu. To reslove this I have tried using various methods found through a google search including attempting to add text to the label with a hidden class as well as moving the burger icon into the label field. Not of these methods proved successful. As the error doesn't take away from the functionality of the websiteor introduce any immediately apparent barriers I have decided to leave it.
-
-![wave error](assets/docs/testing/wave/wave-error.jpg)
+To test accessibility, Wave was used. All came back in a positive light except for one error found on the thank-you page which is detailed below.
 
 ##### index.html
 
@@ -316,6 +314,16 @@ To test accessibility, Wave was used. All came back in a positive light with the
 
 ![buddy.html wave results](assets/docs/testing/wave/wave-buddy.jpg)
 
+##### 404.html
+
+![buddy.html wave results](assets/docs/testing/wave/wave-404.jpg)
+
+##### thank-you.html
+
+![buddy.html wave results](assets/docs/testing/wave/wave-thank-you.jpg)
+
+Error showing on the thank you page (shown below) is due to the automatic redirect. As this is a feature of the page and does not take anything away from the page or the experience, I am not looking to resolve this.
+
 ### Solved Bugs
 
 1. Home link header not changing colour. Found due to it being a link, changed colour directly initially but the realized I could set “color: inherit;” like suggested in the modules.
@@ -323,9 +331,10 @@ To test accessibility, Wave was used. All came back in a positive light with the
 1. H2 background wasn’t being opaque due to being doubled up on h2 element and introduction class. Amended class structure(s) which resolved the issue.
 1. History page was showing wrong when in landscape mode. The image would move in such a way to not longer look right. Fixed by changing center to top: 'background: url("../images/bodybuilding-over-past-100-years.jpg") no-repeat top center/cover;'
 1. H3 titles were obscuring the first line of the following paragraph when using the link to jump to them. After trying moving the heading around, changing sections to divs, wrapping the whole section in a div, nothing was working. Issue was solved by added an additional '<br>' to the top of the first paragraph in each section.
-1. Had an issue where all radio buttons were selecting. This is due to the fact I had missed out the value attribute and miss-labeled the name attribute.
-1. While testing on ios devices, the deployed site has a white line approx. 2px high below the header on each page. This does not show on any other device nor when using developer tools on the deployed site. This has been solved by changing the background colour back to the same blue as the header with the main as white. This has elliminated the line.
+1. Had an issue where all radio buttons were selecting. This is due to the fact I had missed out the value attribute and miss-labelled the name attribute. Relevant changes made which resolved the error.
+1. While testing on iOS devices, the deployed site has a white line approx. 2px high below the header on each page. This does not show on any other device nor when using developer tools on the deployed site. This has been solved by changing the background colour back to the same blue as the header with the main as white. This has eliminated the line.
 1. After I had changed the image file types to webp and compressed them, some images were not showing on the deployed site even though they were present on the previews and the file paths were correct. This was solved by removing the images and adding again.
+1. Wave generated an error due to an empty form label. This was caused by the mechanics used in the dropdown navigation menu. This was resolved by adding "nav" text into the label then adding a 'display: none;' rule to the child of a label within the header ('header > label > em {display: none;}).
 
 ### Known Bugs
 
