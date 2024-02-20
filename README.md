@@ -46,6 +46,7 @@ This website is to offer an insite to what bodybuilding is and to help beginners
 
   - [W3C Validator](#w3c-validator)
   - [Lighthouse](#lighthouse)
+  - [Wave](#wave)
   - [Solved Bugs](#solved-bugs)
   - [Known Bugs](#known-bugs)
 
@@ -206,6 +207,12 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 [Image Resizer.com](https://imageresizer.com/) To re-size images.
 
+[W3C Validator](https://validator.w3.org/) To test HTML.
+
+[W3C Validator (Jigsaw)](https://jigsaw.w3.org/css-validator/) To test CSS.
+
+[Wave](https://wave.webaim.org/) To test accessibility.
+
 ## Deployment & Local Development
 
 ### Deployment
@@ -248,7 +255,7 @@ On both mobile and tablet, the site has been tested in both portrait and landsca
 
 In addition to this, the webpage has been submitted for peer review through slack.
 
-### W3C Validator
+### [W3C Validator](https://validator.w3.org/)
 
 The W3C validator was used to validate all HTML pages on the site with no errors found. For the CSS, the W3C (Jigsaw) validator was used with no errors found.
 
@@ -290,6 +297,24 @@ Desktop
 Mobile
 
 ![buddy.html lighthouse results](assets/docs/testing/lighthouse/buddy-mobile.webp)
+
+### [Wave](https://wave.webaim.org/)
+
+To test accessibility, Wave was used. All came back in a positive light with the exception of one error found across all pages (below). The error is for an empty form label which has been caused by the mechanics used in the dropdown navigation menu. To reslove this I have tried using various methods found through a google search including attempting to add text to the label with a hidden class as well as moving the burger icon into the label field. Not of these methods proved successful. As the error doesn't take away from the functionality of the websiteor introduce any immediately apparent barriers I have decided to leave it.
+
+![wave error](assets/docs/testing/wave/wave-error.jpg)
+
+##### index.html
+
+![index.html wave results](assets/docs/testing/wave/wave-index.jpg)
+
+##### history.html
+
+![history.html wave results](assets/docs/testing/wave/wave-history.jpg)
+
+##### buddy.html
+
+![buddy.html wave results](assets/docs/testing/wave/wave-buddy.jpg)
 
 ### Solved Bugs
 
