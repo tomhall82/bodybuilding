@@ -236,6 +236,8 @@ main {
 /* Class for history pictures */
 .picture img {
   width: 260px;
+  height: 260px;
+  object-fit: cover;
   max-width: 860px;
   position: relative;
   display: flex;
@@ -243,6 +245,18 @@ main {
   margin: 10px auto;
   border: #000000 solid 1px;
   outline: #3e78b2 solid 15px;
+}
+
+#golden {
+  width: 260px;
+  height: 120px;
+  object-fit: cover;
+}
+
+#action-hero {
+  width: 260px;
+  height: 60px;
+  object-fit: cover;
 }
 
 .video > em {
@@ -380,6 +394,20 @@ fieldset {
 
   .picture img {
     width: 360px;
+    height: 260px;
+    object-fit: cover;
+  }
+
+  #golden {
+    width: 360px;
+    height: 170px;
+    object-fit: cover;
+  }
+
+  #action-hero {
+    width: 360px;
+    height: 90px;
+    object-fit: cover;
   }
 
   .picture-1 img {
@@ -421,6 +449,20 @@ fieldset {
 
   .picture img {
     width: 740px;
+    height: 540px;
+    object-fit: cover;
+  }
+
+  #golden {
+    width: 740px;
+    height: 360px;
+    object-fit: cover;
+  }
+
+  #action-hero {
+    width: 740px;
+    height: 190px;
+    object-fit: cover;
   }
 
   .picture-1 img {
@@ -462,6 +504,20 @@ fieldset {
 
   .picture img {
     width: 900px;
+    height: 540px;
+    object-fit: cover;
+  }
+
+  #golden {
+    width: 900px;
+    height: 420px;
+    object-fit: cover;
+  }
+
+  #action-hero {
+    width: 900px;
+    height: 220px;
+    object-fit: cover;
   }
 
   .picture-1 img {
