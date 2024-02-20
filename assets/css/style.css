@@ -144,6 +144,7 @@ main {
   height: 450px;
   background: url("../images/classic_olympia_posedown.webp") no-repeat center -110px;
   position: relative;
+  background-color: #24272b;
 }
 
 #competition {
