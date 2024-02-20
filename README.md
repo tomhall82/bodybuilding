@@ -257,7 +257,7 @@ In addition to this, the webpage has been submitted for peer review through slac
 
 ### [W3C Validator](https://validator.w3.org/)
 
-The W3C validator was used to validate all HTML pages on the site with no errors found. For the CSS, the W3C (Jigsaw) validator was used with no errors found.
+The W3C validator was used to validate all HTML pages on the site with no errors found. The only exception to this is in the code taken from and credited to YouTube that is used to embed the YouTube video in the history page. For the CSS, the W3C (Jigsaw) validator was used with no errors found.
 
 - [index.html](assets/docs/testing/w3c/w3c-index.html.png)
 - [history.html](assets/docs/testing/w3c/w3c-history.html.png)
