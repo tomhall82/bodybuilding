@@ -247,6 +247,14 @@ main {
   outline: #3e78b2 solid 15px;
 }
 
+#eugen {
+  height: 400px;
+}
+
+#william {
+  height: 350px;
+}
+
 #golden {
   width: 260px;
   height: 120px;
@@ -398,6 +406,14 @@ fieldset {
     object-fit: cover;
   }
 
+  #eugen {
+    height: 500px;
+  }
+
+  #william {
+    height: 440px;
+  }
+
   #golden {
     width: 360px;
     height: 170px;
@@ -453,6 +469,14 @@ fieldset {
     object-fit: cover;
   }
 
+  #eugen {
+    height: 990px;
+  }
+
+  #william {
+    height: 880px;
+  }
+
   #golden {
     width: 740px;
     height: 360px;
@@ -506,6 +530,16 @@ fieldset {
     width: 900px;
     height: 540px;
     object-fit: cover;
+  }
+
+  #eugen {
+    width: 740px;
+    height: 990px;
+  }
+
+  #william {
+    width: 740px;
+    height: 880px;
   }
 
   #golden {
